@@ -1,0 +1,8 @@
+CUSTOMER|Jane Smith|jane.smith@example.com|+1987654321|456 Elm St, Springfield
+INVENTORY|SKU456|Gadget|A cool gadget|3|29.99
+INVENTORY|SKU789|Gizmo|An awesome gizmo|2|19.99
+ORDER|pending
+ORDERITEM|SKU456|1
+ORDERITEM|SKU789|2
+SHIPMENT|USPS|TRACK98765|in_transit
+

@@ -53,4 +53,4 @@ class Shipment(models.Model):
 
     def __str__(self):
         return f"Shipment for Order #{self.order.id}"
-
+print(Inventory._meta.db_table)

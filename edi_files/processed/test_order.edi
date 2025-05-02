@@ -1,0 +1,6 @@
+CUSTOMER|John Doe|john@example.com|+1234567890|123 Main St, Springfield
+INVENTORY|SKU123|Widget|A useful widget|5|49.99
+ORDER|pending
+ORDERITEM|SKU123|2
+SHIPMENT|UPS|TRACK12345|in_transit
+
